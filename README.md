@@ -1,5 +1,5 @@
 # Rigidbody-FPS-Controller
-An improved version of a rigidbody controller made by a fellow youtuber called Plai 
+An improved version of a unity rigidbody controller made by a fellow youtuber called Plai 
 
 Setup Guide:
 https://youtube.com/playlist?list=PLRiqz5jhNfSo-Fjsx3vv2kvYbxUDMBZ0u < watch Plai's rigidbody controller playlist first to know how to set up the player (player collider, size, etc.) and setup other things so you know where to reference objects correctly in my script.
