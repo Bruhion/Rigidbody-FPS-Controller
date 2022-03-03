@@ -12,3 +12,5 @@ A:Fixed a couple of bugs related to the controller physics where if you used the
 Plai divided the player controller mechanics into 4 scripts which would unnecessarily pile up your scripts folder, what i did is i just merged all of the scripts into one script making it much easier to navigate through.
 
 Make sure to check out the Issues tab to see a fix for an issue you're having and if your issue isnt listed just make an issue and i will make sure to tell you the fix.
+
+If you want me to add anything to the controller make a pull request and i will try my best to help you
