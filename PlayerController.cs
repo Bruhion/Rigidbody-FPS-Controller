@@ -29,7 +29,7 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private float wallDistance = .6f;
     [SerializeField] private float minimumJumpHeight = 2f;
 
-    [Header("Wallunning Tuning")]
+    [Header("Wallrunning Tuning")]
     
     [SerializeField] private float wallRunningGravity = 12f;
     [SerializeField] private float wallRunningJumpForce = 4f;
